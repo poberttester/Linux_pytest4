@@ -1,0 +1,6 @@
+username1: './tests/p7zip-full.deb'
+username2: '/home/user2/p7zip-full.deb'
+address: '0.0.0.0'
+passwordssh: '1234'
+port: '22'
+journal: '/etc/systemd/journald.conf'

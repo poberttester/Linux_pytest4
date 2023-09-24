@@ -1,0 +1,7 @@
+Sep 24 19:26:03 localhost.localdomain systemd-journal[243]: Runtime journal is using 6.2M (max allowed 49.
+Sep 24 19:26:03 localhost.localdomain systemd-journal[243]: Runtime journal is using 6.2M (max allowed 49.
+Sep 24 19:26:03 localhost.localdomain systemd-journald[139]: Received SIGTERM from PID 1 (systemd).
+Sep 24 19:26:03 localhost.localdomain kernel: audit: type=1404 audit(1423000132.274:2): enforcing=1 old_en
+Sep 24 19:26:03 localhost.localdomain kernel: SELinux: 2048 avtab hash slots, 104131 rules.
+Sep 24 19:26:03 localhost.localdomain kernel: SELinux: 2048 avtab hash slots, 104131 rules.
+Sep 24 19:26:03 localhost.localdomain kernel: input: ImExPS/2 Generic Explorer Mouse as /devices/platform/
